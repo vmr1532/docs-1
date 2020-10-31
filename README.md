@@ -1,6 +1,6 @@
 
 
-## About LoginRadius Docs
+# About LoginRadius Docs
 
 
 This is the documentation source for this repository.
